@@ -1,0 +1,30 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "PImage",
+    "owner": "AlenaSoft",
+    "description": "Sistema para publicar imágenes de manera publica",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "CJ"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Bse de STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "CJ",
+    "threatTop": 0
+  }
+}
